@@ -36,7 +36,7 @@ This repository documents the creation and administration of a home lab environm
 
 * [x] Phase 1 – Create DC1 Virtual Machine
 * [x] Phase 2 – Install Windows Server 2022
-* [ ] Phase 3 – Promote DC1 to Domain Controller
+* [x] Phase 3 – Promote DC1 to Domain Controller
 * [ ] Phase 4 – Users and Organizational Units
 * [ ] Phase 5 – Group Policy
 * [ ] Phase 6 – Shared Folders and Permissions
