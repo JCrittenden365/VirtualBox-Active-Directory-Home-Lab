@@ -38,7 +38,6 @@ This repository documents the creation and administration of a home lab environm
 * [x] Phase 2 – Install Windows Server 2022
 * [x] Phase 3 – Promote DC1 to Domain Controller
 * [x] Phase 4 – Users and Organizational Units
-* [ ] Phase 5 – Group Policy
-* [ ] Phase 6 – Shared Folders and Permissions
-* [ ] Phase 7 – PowerShell Administration
-* [ ] Phase 8 – Help Desk Ticketing System
+* [x] Phase 5 – Security Groups
+* [x] Phase 6 – Windows Client Machine
+* [ ] Phase 7 – Creating/Configuring GPOs
