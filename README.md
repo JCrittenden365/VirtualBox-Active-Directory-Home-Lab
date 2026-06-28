@@ -30,7 +30,7 @@ This repository documents the creation and administration of a home lab environm
 * FILE1 (File Server)
 * HELPDESK1 (Ticketing System)
 * UBUNTU1 (Linux Server)
-* CLIENT1 (Windows 11 Client)
+* CLIENT-1 (Windows 11 Client)
 
 ## Project Progress
 
@@ -40,4 +40,4 @@ This repository documents the creation and administration of a home lab environm
 * [x] Phase 4 – Users and Organizational Units
 * [x] Phase 5 – Security Groups
 * [x] Phase 6 – Windows Client Machine
-* [ ] Phase 7 – Creating/Configuring GPOs
+* [x] Phase 7 – Creating/Configuring GPOs
