@@ -41,3 +41,4 @@ This repository documents the creation and administration of a home lab environm
 * [x] Phase 5 – Security Groups
 * [x] Phase 6 – Windows Client Machine
 * [x] Phase 7 – Creating/Configuring GPOs
+* [ ] Phase 8 - File Shares & NTFS Permissions
